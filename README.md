@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @s1monb
 - 👀 I’m interested in music, coding and food.
-- 🌱 I’m currently learning Typescript and a little Rust
+- 🌱 I’m currently learning K8s and Go
 - 📫 simon.bjornoy@gmail.com
 
 <!---
